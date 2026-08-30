@@ -4,13 +4,6 @@ Enterprise-grade demand intelligence and automated inventory replenishment
 dashboard. Built with Next.js (App Router), TypeScript, Tailwind CSS,
 Recharts, and Lucide icons.
 
-## Getting started
-
-```bash
-npm install
-npm run dev
-```
-
 Open https://smart-retail-forecasting-project-ll.vercel.app/
 
 ## Architecture
